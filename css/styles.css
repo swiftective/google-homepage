@@ -6,29 +6,24 @@ footer {
   display: flex;
 }
 
-main {
-  display: flex;
-  justify-content: center;
-  height: 100%;
-}
-
 .nav-container {
-  display: flex;
+  /* display: flex; */
+  /* justify-items: end; */
+  display: grid;
+  /* justify-items: end; */
+  grid-gap: 1em;
+  grid-template-columns: repeat(4, 1fr);
   justify-items: end;
 }
 
 .nav-item1 {
-  display: inline-block;
 }
 
 .nav-item2 {
-  display: inline-block;
 }
 
 .nav-item3 {
-  display: inline-block;
 }
 
 .nav-item4 {
-  display: inline-block;
 }
