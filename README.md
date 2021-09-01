@@ -17,3 +17,7 @@
 - Tried out the Flex Box Layout Implementation of the Project separately
 
 - Faced problems on Flex Layout and some fixes needs to done.....
+
+## Day 3
+
+- Figured the FlexBox layout and decided to switch to flexbox for the whole project instead of using Grid layout
