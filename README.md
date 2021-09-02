@@ -21,3 +21,11 @@
 ## Day 3
 
 - Figured the FlexBox layout and decided to switch to flexbox for the whole project instead of using Grid layout
+
+## Day 4
+
+- Layed out the Google Homepage and it now seems pretty good
+
+- More understanding of Flexible box Layout
+
+- Learned about folds in vim and it helped me in laying out the html in clean way
