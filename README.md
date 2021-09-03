@@ -34,6 +34,4 @@
 
 - Fixed the subtle details and used DEV TOOLS 🛠 to catch the sall details in the page
 
-- Page Looks Different and have to troubleshoot the problem
-
 [FINAL PRODUCT 💪](https://swiftective.github.io/google-homepage/)
