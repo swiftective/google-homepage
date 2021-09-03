@@ -29,3 +29,9 @@
 - More understanding of Flexible box Layout
 
 - Learned about folds in vim and it helped me in laying out the html in clean way
+
+## Day 5
+
+- Fixed the subtle details and used DEV TOOLS 🛠 to catch the sall details in the page
+
+[FINAL PRODUCT 💪](https://swiftective.github.io/google-homepage/)
