@@ -32,6 +32,6 @@
 
 ## Day 5
 
-- Fixed the subtle details and used DEV TOOLS 🛠 to catch the sall details in the page
+- Fixed the subtle details and used DEV TOOLS 🛠 to catch the small details in the page
 
 [FINAL PRODUCT 💪](https://swiftective.github.io/google-homepage/)
