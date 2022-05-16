@@ -92,5 +92,25 @@
         </div>
       </div>
     </div>
+
+    <script>
+      const input = document.getElementById("search");
+
+      function searchGoogle(element) {
+        if (element.key == "Enter") {
+          if (element.target.value.trim().length == 0) return;
+          element.preventDefault();
+          window.open(
+            `https://www.google.com/search?q=${element.target.value.replaceAll(
+              " ",
+              "+"
+            )}`,
+            "_self"
+          );
+        }
+      }
+
+      input.addEventListener("keypress", searchGoogle);
+    </script>
   </body>
 </html>
